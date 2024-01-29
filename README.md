@@ -8,7 +8,9 @@ Olá eu me chamo Joao Vitor Gomes, atualmente estou cursando Ciências Da Comput
 - :house: Ilhéus - Bahia.
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaojzn&show_icons=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaojzn&show_icons=true&title_color=C0C0C0&icon_color=FFD700&text_color=006400&bg_color=000000)
+
+
 
 ### Linguagens mais usadas
 
