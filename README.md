@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 ## Sobre mim
-Olá eu me chamo Joao Vitor Gomes, um Estudante de Ciências Da Computação(Uesc-BA), apaixonado por tecnologia, entusiasta de código aberto e interessado em Desenvolvimento de Aplicações Web. Estou constantemente aprendendo e explorando novas tecnologias para expandir minhas habilidades como desenvolvedor.
+Olá eu me chamo Joao Vitor Gomes, atualmente estou cursando Ciências Da Computação(Uesc-BA), sou apaixonado por tecnologia, entusiasta de código aberto e interessado em Desenvolvimento de Aplicações Web. Estou constantemente aprendendo e explorando novas tecnologias para expandir minhas habilidades como desenvolvedor.
 
 - :books: Atualmente estou aprendendo C#.NET.
 - :mag: Como me encontrar:  email = Vitorcac7@gmail.com
