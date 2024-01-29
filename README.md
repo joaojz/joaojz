@@ -14,7 +14,8 @@ Olá eu me chamo Joao Vitor Gomes, atualmente estou cursando Ciências Da Comput
 
 ### Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaojzn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaojzn&layout=compact&title_color=C0C0C0&icon_color=007ec6&text_color=007ec6&bg_color=000000)
+
 
 
 Obrigado por visitar meu perfil, até mais! :metal:
