@@ -3,7 +3,7 @@
 ## Sobre mim
 Estou constantemente aprendendo e explorando novas tecnologias para expandir minhas habilidades como desenvolvedor.
 
-- :books: Atualmente estou aprendendo JavaScript.
+- :books: Atualmente estou aprendendo Python.
 - :mag: Como me encontrar:  email = Vitorcac7@gmail.com
 - :house:   Bahia.
 ### Estatísticas do GitHub
