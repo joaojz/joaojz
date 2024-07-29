@@ -11,7 +11,7 @@
 
     
 ## Sobre mim
-Atualmente tenho interesse em entrar no ramo da tecnologia como programador back-end, estou unsando a linguagem python para o inico dessa jornada.
+Atualmente tenho interesse em entrar no ramo da tecnologia como programador back-end, estou unsando a linguagem PYTHON/C# para o inico dessa jornada.
 - :books: Atualmente estou aprendendo Python/C#.
 - :mag: Como me encontrar:  email = Vitorcac7@gmail.com
 - :house:   Bahia.
